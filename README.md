@@ -5,3 +5,9 @@ Since Pokémon Twitch Chat, I always dreamed to make a Twitch chat game type. St
 Where every player is a stream platform when needed or possible.)
 
 `#StreamChatable`
+
+
+You want your next game to be played on the stream ?
+- You are the creator: Send a build or a token access
+- You are viewer : Propose the game
+- You are viewer with money to lose: Make a donation on the paypal of the community with the name of the game to bough on the community account.
